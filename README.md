@@ -1,4 +1,4 @@
-# This is the repository for an experiment on Just Noticeable Difference
+# Just Noticeable Difference on brightness
 
 ## Universitat Pompeu Fabra - Barcelona
 ## Master in Sound and Music Computing

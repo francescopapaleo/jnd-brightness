@@ -10,7 +10,6 @@
 This repository has been created to host the materials produced for the experiment.
 
 Authors:
-\n
 
 Nikita Bashaev
 Abhishek Choubey

@@ -9,6 +9,5 @@
 
 This repository has been created to host the materials produced for the experiment.
 
-Authors:
-
-Nikita Bashaev, Abhishek Choubey, Amaia Sagasti, Francesco Papaleo
+#### Authors:
+#### Nikita Bashaev, Abhishek Choubey, Amaia Sagasti, Francesco Papaleo

@@ -11,7 +11,4 @@ This repository has been created to host the materials produced for the experime
 
 Authors:
 
-Nikita Bashaev
-Abhishek Choubey
-Amaia Sagasti
-Francesco Papaleo
+Nikita Bashaev, Abhishek Choubey, Amaia Sagasti, Francesco Papaleo

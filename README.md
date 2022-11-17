@@ -4,8 +4,7 @@
 # What is the Just Noticeable Difference for the brightness of a sound?
 
 #### Course: Music Perception and Cognition - Prof. Perfecto Herrera
-#### Authors:
-#### Nikita Bashaev, Abhishek Choubey, Amaia Sagasti, Francesco Papaleo
+#### Authors: Nikita Bashaev, Abhishek Choubey, Amaia Sagasti, Francesco Papaleo
 
 The spectral centroid is directly connected to the subjective perception of brightness. The aim of this research is to find what’s the smallest variation in the spectral centroid of the spectrum of a sound sample, that creates noticeable variations in brightness. 
 

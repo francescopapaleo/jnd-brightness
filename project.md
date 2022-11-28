@@ -147,7 +147,7 @@ The procedure for generating the stimuli will be the following:
 
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
- for low frequency band, ![]([img]http://www.sciweavers.org/tex2img.php?eq=%20A%5E%7B1%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0[/img])
+ for low frequency band, ![](http://www.sciweavers.org/tex2img.php?eq=%20A%5E%7B1%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 
  for mid-low frequency band, 
 

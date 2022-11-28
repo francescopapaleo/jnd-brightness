@@ -5,7 +5,7 @@ You have some errors, warnings, or alerts. If you are using reckless mode, turn 
 * WARNINGs: 2
 * ALERTS: 61
 
-Conversion time: 4.623 seconds.
+Conversion time: 3.323 seconds.
 
 
 Using this Markdown file:
@@ -18,7 +18,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β33
-* Mon Nov 28 2022 02:17:59 GMT-0800 (PST)
+* Mon Nov 28 2022 02:43:19 GMT-0800 (PST)
 * Source doc: MPC project - ready
 
 WARNING:
@@ -31,14 +31,10 @@ Inline drawings not supported: look for ">>>>>  gd2md-html alert:  inline drawin
 
 * This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
 
-
-WARNING:
-You have 11 H1 headings. You may want to use the "H1 -> H2" option to demote all headings by one level.
-
 ----->
 
 
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 3; ALERTS: 61.</p>
+<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 2; ALERTS: 61.</p>
 <ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
 
 <p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
@@ -107,10 +103,10 @@ You have 11 H1 headings. You may want to use the "H1 -> H2" option to demote all
 
 
 
-# **What is the just noticeable difference (JND) for the brightness of a sound?**
+## **What is the just noticeable difference (JND) for the brightness of a sound?**
 
 
-# **Research Question And Relevance**
+## **Research Question And Relevance**
 
 What is the just noticeable difference (JND) for the brightness of a sound? The spectral centroid is directly connected to the subjective perception of brightness. The aim of this research is to find what’s the smallest variation in the spectral centroid of the spectrum of a sound sample, that creates noticeable variations in brightness. 
 
@@ -123,15 +119,15 @@ This study could be relevant to determine the subjectivity of brightness percept
 Research Question condensed : How much of a shift in the spectral centroid must occur before a difference in perceived brightness can be observed ?
 
 
-# 
+## 
 
 
-# **CHOICE OF SOUND**
+## **CHOICE OF SOUND**
 
 The sounds presented in our experiments will be pink noise sounds. Each sample will be a narrowed band version of pink noise with different low and high limits. 
 
 
-## **STIMULI**
+### **STIMULI**
 
 Just like some other psycho-acoustic phenomenon like pitch or loudness, brightness perception changes with respect to frequency. Therefore,we want to get more accurate and trustable JND values that can be generalized for the whole spectrum. In order to do that, we are going to divide the frequency spectrum into four bands:  
 
@@ -567,7 +563,7 @@ Image. Example of question selection					</p>
 
 
 
-# **VARIABLES**
+## **VARIABLES**
 
 Parameters to manipulate (independent variables):
 
@@ -589,15 +585,15 @@ Dependent variable:
 * Brightness sensation
 
 
-# **SUBJECTS**
+## **SUBJECTS**
 
 The experiment will include two subject groups of 15 integrants each: one experimental group of people with no musical-background and another one with people that play an instrument, produce music or similar. The reason for this is to find out whether there is a difference in how these different groups perceive brightness, and therefore, see if we can find different JNDs. 
 
 
-# 
+## 
 
 
-## **TEST - EQUIPMENT**
+### **TEST - EQUIPMENT**
 
 The pink noise sound was generated using  Audacity.
 
@@ -606,13 +602,13 @@ We then processed and edited them using the reliable and industry-standard tool 
 The test will be done in dual channel mono, the participants will be asked to wear headphones. The frequency response of the headphones must be as flat as possible.
 
 
-# The test will be conducted through the online tool PsyToolkit.
+## The test will be conducted through the online tool PsyToolkit.
 
 
-## 
+### 
 
 
-## **TEST - INSTRUCTIONS**
+### **TEST - INSTRUCTIONS**
 
 The instructions presented at the beginning of the test will the following:
 
@@ -663,7 +659,7 @@ In order to distribute the test, we have created a document with some additional
 Link to this [document](https://drive.google.com/file/d/19fGma97NYxOT3ZEucgd6yOisqLd9VVCv/view?usp=share_link)
 
 
-# **TEST - PROCEDURE**
+## **TEST - PROCEDURE**
 
 Initially, the following questions are asked to the subject:
 
@@ -708,7 +704,7 @@ Then, as mentioned before, the test consists of 21 simple and quick questions. I
 At the end of the test, we are including this in order to get some feedback from the subjects.
 
 
-## 
+### 
 
 <p id="gdcalert59" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert60">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -717,14 +713,14 @@ At the end of the test, we are including this in order to get some feedback from
 
 
 
-# **DATA ANALYSIS**
+## **DATA ANALYSIS**
 
 In order to calculate the spectral centroid this we can rely on libraries such as Essentia or Librosa. 
 
 The general formula for the computation of the S.C. is:
 
 
-# 
+## 
     
 
 <p id="gdcalert60" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert61">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
@@ -753,7 +749,7 @@ We will re-organise the answers according to b), from big differences in centroi
 ![drawing](https://docs.google.com/drawings/d/12345/export/png)
 
 
-# **REFERENCES**
+## **REFERENCES**
 
 
         Allen, Jont B., and Stephen T. Neely. 1997. “Modelling the Relation between the Intensity Just-Noticeable Difference and Loudness for Pure Tones and Wideband Noise.” _The Journal of the Acoustical Society of America_ 102 (6): 3628–46.[ https://doi.org/10.1121/1.420150](https://doi.org/10.1121/1.420150).

@@ -3,10 +3,12 @@
 
 # What is the Just Noticeable Difference for the brightness of a sound?
 
-#### Course: Music Perception and Cognition - Prof. Perfecto Herrera
-#### Authors: Abhishek Choubey, Amaia Sagasti, Francesco Papaleo, Nikita Bashaev 
+### Course: Music Perception and Cognition - Prof. Perfecto Herrera
+__Authors: Abhishek Choubey, Amaia Sagasti, Francesco Papaleo, Nikita Bashaev__
 
-The spectral centroid is directly connected to the subjective perception of brightness. The aim of this research is to find what’s the smallest variation in the spectral centroid of the spectrum of a sound sample, that creates noticeable variations in brightness. 
+### Research Question And Relevance
+
+What is the just noticeable difference (JND) for the brightness of a sound? The spectral centroid is directly connected to the subjective perception of brightness. The aim of this research is to find what’s the smallest variation in the spectral centroid of the spectrum of a sound sample, that creates noticeable variations in brightness. 
 
 It is important to notice that within the framework of current research, we use the notions of brightness and spectral centroid interchangeably. Although there were proposed many different definitions of brightness, it is still an open and quite complex question how such a purely subjective concept as brightness can be measured and quantified. Therefore, we decided to use the most popular definition of brightness as a spectral centroid, since we believe it will be adequate for the purposes of measuring the JND.
 

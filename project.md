@@ -140,14 +140,12 @@ Just like some other psycho-acoustic phenomenon like pitch or loudness, brightne
 
 The procedure for generating the stimuli will be the following:
 
-![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
-
 
 1. We will generate <span style="text-decoration:underline;">one base sound for each frequency band</span> (
 
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
- for low frequency band, ![](https://bit.ly/3ARsm7Q)
+ for low frequency band, A^{1}
 
  for mid-low frequency band, 
 

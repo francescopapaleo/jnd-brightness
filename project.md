@@ -1,6 +1,6 @@
-What is the just noticeable difference (JND) for the brightness of a sound?
+# What is the just noticeable difference (JND) for the brightness of a sound?
 
-Research Question And Relevance
+## Research Question And Relevance
 What is the just noticeable difference (JND) for the brightness of a sound? The spectral centroid is directly connected to the subjective perception of brightness. The aim of this research is to find what’s the smallest variation in the spectral centroid of the spectrum of a sound sample, that creates noticeable variations in brightness. 
 
 It is important to notice that within the framework of current research, we use the notions of brightness and spectral centroid interchangeably. Although there were proposed many different definitions of brightness, it is still an open and quite complex question how such a purely subjective concept as brightness can be measured and quantified. Therefore, we decided to use the most popular definition of brightness as a spectral centroid, since we believe it will be adequate for the purposes of measuring the JND.
@@ -11,34 +11,39 @@ This study could be relevant to determine the subjectivity of brightness percept
 
 Research Question condensed : How much of a shift in the spectral centroid must occur before a difference in perceived brightness can be observed ?
 
-CHOICE OF SOUND
+## Choice of sounds
 The sounds presented in our experiments will be pink noise sounds. Each sample will be a narrowed band version of pink noise with different low and high limits. 
 
-STIMULI
+## Stimuli
 Just like some other psycho-acoustic phenomenon like pitch or loudness, brightness perception changes with respect to frequency. Therefore,we want to get more accurate and trustable JND values that can be generalized for the whole spectrum. In order to do that, we are going to divide the frequency spectrum into four bands:  
 
-Low: 20Hz - 200Hz
-Mid-low: 200Hz-1kHz
-Mid-high: 1kHz-3kHz
-High: 3kHz-8kHz
+* Low: 20Hz - 200Hz
+* Mid-low: 200Hz-1kHz
+* Mid-high: 1kHz-3kHz
+* High: 3kHz-8kHz
 
 The procedure for generating the stimuli will be the following:
-We will generate one base sound for each frequency band (A1 for low frequency band, A2 for mid-low frequency band, A3 for mid-high frequency band, A4 for high frequency band). Each An will be obtained by applying Low-Pass + High-Pass filters to the pink noise sound. For each band, different cut off frequencies will be used. These limits will be determined by the band limits exposed in the previous paragraph. So our base sounds for each band will be:
-Base sound for low-band: band-passed-filtered pink noise with cut off frequencies fL=20Hz  and fH=200Hz
-Base sound for mid-low-band: band-passed-filtered pink noise with cut off frequencies fL=200Hz  and fH=1kHz
-Base sound for mid-high-band: band-passed-filtered pink noise with cut off frequencies fL=1kHz  and fH=3kHz
-Base sound for high-band: band-passed-filtered pink noise with cut off frequencies fL=3kHz  and fH=8kHz
 
-Later, for each An we generate a series of four sounds Bn0, …, Bn4 by selecting a different band of pink noise, very close to the band of An. Namely, we set Bnk to be the result of “upward band” version of An. 
+1. We will generate one base sound for each frequency band (A1 for low frequency band, A2 for mid-low frequency band, A3 for mid-high frequency band, A4 for high frequency band). Each An will be obtained by applying Low-Pass + High-Pass filters to the pink noise sound. For each band, different cut off frequencies will be used. These limits will be determined by the band limits exposed in the previous paragraph. So our base sounds for each band will be:
+  * Base sound for low-band: band-passed-filtered pink noise with cut off frequencies fL=20Hz  and fH=200Hz
+  * Base sound for mid-low-band: band-passed-filtered pink noise with cut off frequencies fL=200Hz  and fH=1kHz
+  * Base sound for mid-high-band: band-passed-filtered pink noise with cut off frequencies fL=1kHz  and fH=3kHz
+  * Base sound for high-band: band-passed-filtered pink noise with cut off frequencies fL=3kHz  and fH=8kHz
+
+2. For each A^n we generate a series of four sounds Bn0, …, Bn4 by selecting a different band of pink noise, very close to the band of An. Namely, we set Bnk to be the result of “upward band” version of An. 
 Inside each bands, the step between Bnk and Bn(k+1) is the same, but between different bands, it is different, since brightness perception changes along frequency. The steps have been manually selected by the authors of this project, by generating loads of samples and : establishing Bn0 sample to be nearly indistinguishable from An in terms of brightness and Bn4 sample to be distinguishable enough from An in terms of brightness.
+
 After this process of selecting appropriate Bnk, these are the limits for the LPF and HPF applied to the pink noise to generate the samples:
 
+|   |LOW|LOW-MID|HIGH-MID|HIGH|
+|---|---|-------|--------|----|
+|A^n|   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
-
-LOW 
-MID-LOW
-MID-HIGH
-HIGH
  An
 fL=20Hz   fH=200Hz
 fL=200Hz   fH=1kHz
@@ -72,7 +77,7 @@ Step (Hz)
 50
 
 
-All of the samples have equal loudness =  -26.5 LUFS.
+All the samples have equal loudness =  -26.5 LUFS.
 	
 	Once all the samples are generated, a calculation of the spectral centroids has to be computed. Of course, the centroid of An will be smaller than the centroid of An+1 and the centroid of Bnkis smaller than the centroid of Bn(k+1)
 
